@@ -1,1 +1,1 @@
-# deepl_kishf1
+# Repo for a deep learning course homework
